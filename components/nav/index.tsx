@@ -4,7 +4,7 @@ import { useRouter } from 'next/router'
 import { navdata } from "./nav.data"
 import Logo from "../logo"
 import Back from "../back"
-import Popup from "../popup"
+//import Popup from "../popup"
 import ConnectWallet from "../connectwallet"
 
 import { useWeb3React } from '@web3-react/core'
