@@ -18,9 +18,7 @@ a {
 }
 
 @font-face {
-  font-family: "Tempest";
-  src: url("/assets/fonts/tempest/tempestapacheexpandital-webfont.woff") format("woff"),
-  url("/assets/fonts/tempest/tempestapacheexpandital-webfont.woff2") format("woff2");
+  font-family: "Ubuntu";
   font-style: normal;
   font-weight: 400;
   font-display: auto;
